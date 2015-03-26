@@ -9,7 +9,7 @@ Just run it, and you will have a new CSV file with the same name of the Excel on
 Resolve all dependencies with CPAN:
 
 ```bash
-perl -MCPAN -e shell
+sudo perl -MCPAN -e shell
 o conf prerequisites_policy follow
 o conf commit
 
